@@ -6,10 +6,10 @@ from textblob import TextBlob
 import pandas as pd
 import re
 
-consumer_key="cf5jZGNrwXkpxXAXLVvHmPPbE"
-consumer_secret="s6Q3BoxWlxLr5jpxLKc8BnBKJQXTXuPsRo1GpKhRCD7iOVtiU8"
-access_token="974583015883108352-8dyFV8Qur3YMDfvyK2tsp639d4hUqMa"
-access_secret="unEjodA4LbN7065SeCiI1NqqdIaGJnWA2RuWLrG3ETx73"
+consumer_key=""
+consumer_secret=""
+access_token=""
+access_secret=""
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
