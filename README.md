@@ -2,6 +2,7 @@
 Scroll and Sentiment Analysis to tweets , created with Python and Dash
 ![Screenshot](tweetScroller1.PNG)
 
+The table above contains bunch of tweets collected , polarity and subjectivity
 ![Screenshot](tweetScroller2.PNG)
 
 # Requirements : 
